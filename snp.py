@@ -1,8 +1,4 @@
-#PBS -N snp
-#PBS -l nodes=1:ppn=8
-#PBS -q batch
-#PBS -V
-#PBS -S /bin/bash
+
 import numpy as np
 
 
